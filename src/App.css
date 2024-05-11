@@ -1,0 +1,11 @@
+.App {
+    display: grid;
+    place-items: center;
+    height: 100svh;
+    text-align: center;
+}
+button {
+    display: block;
+    padding: 10px;
+    margin: 5px;
+}
